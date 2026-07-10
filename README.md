@@ -7,7 +7,7 @@ NIM: 243303621256
 Link Pengumpulan:
 Link GitHub Repository: [https://github.com/manullangmutiara6-ctrl/native-power-app-new](https://github.com/manullangmutiara6-ctrl/native-power-app-new)
 
-Link Download APK (EAS Dashboard): [ https://expo.dev/accounts/revalina/projects/native-power-app-new/builds/50d4252a-20d5-4bad-9ea1-fa8f43d2f1aa ]
+Link Download APK (EAS Dashboard): [https://expo.dev/artifacts/eas/s82cUU5x0oZhUmiNB0SbderL5RJ9U_v4vGyc3LlKbho.apk]
 
 sebelum di update : <img width="714" height="1599" alt="WhatsApp Image 2026-07-10 at 15 44 56" src="https://github.com/user-attachments/assets/0772a329-85a9-4cde-8907-bff3a86cf725" />
 
